@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /order/
+Sitemap: https://glpatches-5zss.onrender.com/sitemap.xml
