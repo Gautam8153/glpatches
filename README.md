@@ -1,0 +1,2 @@
+# glpatches
+Static site
